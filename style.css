@@ -39,7 +39,7 @@ body{
 .qr-text{
     padding: 0 1rem 1rem;
 }
-.qr-text h2{
+.qr-text h1{
     color: var(--Dark-blue);
     font-size: 20px;
     padding: 0 .5rem;
